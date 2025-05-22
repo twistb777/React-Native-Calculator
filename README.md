@@ -1,26 +1,16 @@
-# React Native Calculator App
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) to create a simple calculator app in react native.
-
+# React Native калькулятор
 ## Get started
-
-1. Install dependencies
+1. Установка зависимостей
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Запуск приложения
 
    ```bash
     npx expo start
    ```
 
-## App Screenshot
+## Скриншот из приложения
 ![React Native Calculator App](./iphone-calculator.png)
-
-## Watch it on YouTube
-
-This repository is part of a tutorial on my [YouTube channel](https://www.youtube.com/@itzpradip). Check out the complete tutorial on YouTube by clicking below. 👇
-
-[![React Native ToDo App Tutorial for Beginners](https://img.youtube.com/vi/JqSPeqKuHNE/0.jpg)](https://youtu.be/JqSPeqKuHNE)
